@@ -14,6 +14,7 @@ module.exports = {
 
     webdriver: {
         start_process: true,
+        
     },
 
     // test_workers: {
